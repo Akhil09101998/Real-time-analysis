@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+gunicorn
+httptools
+pandas
+beautifulsoup4
+
