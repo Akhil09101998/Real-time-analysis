@@ -4,4 +4,4 @@ gunicorn
 httptools
 pandas
 beautifulsoup4
-
+requests
